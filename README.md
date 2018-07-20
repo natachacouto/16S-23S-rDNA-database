@@ -4,4 +4,4 @@ This database contains 16S-23S rDNA sequences downloaded from the NCBI database 
 Two files i) the taxonomy dump file (ftp://ftp.ncbi.nih.gov/pub/taxonomy/, accessed on 20-09-2017) and ii) the lineage file (https://github.com/zyxue/ncbitax2lin/, accessed on 20-09-2017) were used to get the lineage (taxonomy) for each specific
 bacteria. The mapping database was created using the merged taxonomy text file and its corresponding sequencing multiple FASTA file. 
 
-The database contains 23,439 sequences from 2093 species and 896 genera.
+The database contains 23,439 sequences from 2389 species (295 sequences were not identified at the species level and could represent new species) and 896 genera.
